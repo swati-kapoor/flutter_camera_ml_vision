@@ -14,7 +14,7 @@ dependencies:
     #git:
     #  url: git://github.com/algirdasmac/flutterfire
     #  path: packages/firebase_ml_vision
-  firebase_core: 1.0.4
+  firebase_core: ^1.1.0
   visibility_detector: ^0.2.0
   path_provider: ^2.0.1
   pedantic: ^1.11.0
